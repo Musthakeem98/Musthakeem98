@@ -1,5 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]([https://rishavchanda.io](https://blog.eduonix.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg))
-
+![MasterHead](https://cubettech.com/_next/image/?url=https%3A%2F%2Fcubettech.com%2Fwp-content%2Fuploads%2F2021%2F05%2FWEB-Full-Stack-Developer.jpg&w=1920&q=75)
 <h1 align="center">Hi 👋, I'm Musthakeem Ahamed</h1>
 <h3 align="center">A passionate full-stack developer from Sri-Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*gReLR6hZjwyBxHmfLN1AVw.gif">
